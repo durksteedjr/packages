@@ -18,7 +18,7 @@
     "@durksteedjr/colors": "workspace:*",
     "@durksteedjr/ui": "workspace:*",
     "@internal/sdk": "workspace:*",
-    "clsx": "^1.2.1",
+    "clsx": "^2.0.0",
     "copy-to-clipboard": "^3.3.3",
     "next": "^13.4.10",
     "react": "^18.2.0",
